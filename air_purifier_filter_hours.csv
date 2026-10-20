@@ -1,0 +1,5 @@
+﻿hours_per_day,days_to_2000_hours,calculation,source
+4,500,2000 / 4,2000-hour filter counter (published manufacturer guidance)
+8,250,2000 / 8,2000-hour filter counter (published manufacturer guidance)
+12,167,2000 / 12 (rounded),2000-hour filter counter (published manufacturer guidance)
+24,83,2000 / 24 (rounded),2000-hour filter counter (published manufacturer guidance)
